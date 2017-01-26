@@ -1,12 +1,12 @@
 
 
-In der Datei Stresser.php findet ihr diese anweißung.
+In der Datei Stresser.php findet ihr diese anweiÃŸung.
 =======================================================
 
 //Api Slot
  
  
-				/* Bitte Füge hier die API ein.*/
+				/* Bitte FÃ¼ge hier die API ein.*/
 
 
 //Api Slot End
@@ -19,7 +19,7 @@ In der Datei Stresser.php findet ihr diese anweißung.
 
 
 
-Fügt diesen Code ein:
+FÃ¼gt diesen Code ein:
 =========================
 
 		if($method == "UDP"){
@@ -36,5 +36,5 @@ Fügt diesen Code ein:
 		
 		
 		
-		
+Den API Ordner gibts Privat :)
 
