@@ -5,7 +5,7 @@
 
 
 
-Hier veröffentliche ich einen remake des Emo stressers ich nenne den ganzen spaß hydrostress :).
+Hier verÃ¶ffentliche ich einen remake des Emo stressers ich nenne den ganzen spaÃŸ hydrostress :).
 Falls ihr hilfe braucht meldet euch bei mir.
 
 
